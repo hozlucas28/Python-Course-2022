@@ -1,2 +1,2 @@
-# Python-Course-2022
-Repository of Python course of Udemy platform.
+# Python Course
+Repository of [Python course](https://www.udemy.com/course/programacion-desarrollo-web/) of [Udemy platform](https://www.udemy.com/).
