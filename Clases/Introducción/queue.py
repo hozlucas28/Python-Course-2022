@@ -12,7 +12,7 @@
 # Importación
 from collections import deque
 
-# Declaración de la cola
+# Declaración de la lista
 queue = deque(['Alex', 'Lucas', 'Nahuel'])
 
 # Agregar elemento al final de la lista
