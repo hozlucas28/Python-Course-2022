@@ -8,7 +8,8 @@
 #  			  - XXX.
 # ------------------------------------------------------------------------- #
 
-# Funciones lambda
+# ----------------------------- Funciones Lambda ----------------------------- #
+
 add = lambda a, b: a + b
 substraction = lambda a, b: a - b
 
@@ -17,7 +18,8 @@ odd = lambda a: a % 2 != 0
 
 reverseString = lambda string: string[::-1]
 
-# Salidas
+# ----------------------------- Código Principal ----------------------------- #
+
 print(add(10, 15))
 print(substraction(10, 15))
 

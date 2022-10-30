@@ -18,7 +18,7 @@ def subtraction(a=None, b=None):
 # secondName = 'Nahuel'
 # return f'Hola {firstName} {lastName}'
 
-# ---------------------------------- Salidas --------------------------------- #
+# ----------------------------- Código Principal ----------------------------- #
 
 add = add(1, 7)
 subtraction = subtraction(b=20, a=8)
