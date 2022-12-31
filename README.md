@@ -36,7 +36,7 @@
             <strong>Run Python file from console:</strong> write <code>python &lt;FILE NAME&gt;</code> in a console, and you are going to see a result in your console.
         </li>
         <li>
-            <strong>Run Python file from extension:</strong> select the file and then press <i>right click</i> on it, and run option: <i>Run Python File in Terminal</i>. Automatically, it will open your default console inside Visual Studio Code, and you are going to see a result of Python file, that you selected, on your console.
+            <strong>Run Python file from extension:</strong> select the file and then press <i>right click</i> on it, and run option: <i>Run Python File in Terminal</i>. Automatically, it will open your default console inside Visual Studio Code, and you are going to see a result of Python file, that you selected, in your console.
         </li>
     </ul>
 </p>
