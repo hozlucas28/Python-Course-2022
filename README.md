@@ -23,7 +23,7 @@
     Summary
 </h2>
 <p>
-    This is a repository where I store all lessons that I take on <a href="https://www.udemy.com/course/programacion-desarrollo-web/" target="_blank">Web Development<a> course of <a href="https://www.udemy.com/" target="_blank">Udemy platform</a>, related with Python language. In addition, I used npm packages like: <a href="https://prettier.io/" target="_blank">prettier</a> and <a href="https://github.com/typicode/husky" target="_blank">husky</a> to made my code be more 'prettier'.
+    This is a repository where I store all lessons that I take on <a href="https://www.udemy.com/course/programacion-desarrollo-web/" target="_blank">Web Development<a> course of <a href="https://www.udemy.com/" target="_blank">Udemy platform</a>, related with Python language.
 </p>
 
 <h2>
@@ -39,13 +39,6 @@
             <strong>Run Python file from extension:</strong> select the file and then press <i>right click</i> on it, and run option: <i>Run Python File in Terminal</i>. Automatically, it will open your default console inside Visual Studio Code, and you are going to see a result of Python file, that you selected, on your console.
         </li>
     </ul>
-</p>
-
-<p>
-    <i>
-        <strong>• Optional:</strong>
-        Run command <code>npm install</code> to install all packages used for make a clean code, like Prettier and Husky for pre-commits.
-    </i>
 </p>
 
 <h2>
