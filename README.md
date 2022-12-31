@@ -30,7 +30,7 @@
     Installation
 </h2>
 <p>
-    Clone the repository, install <a href="https://www.python.org/" target="_blank">Python</a> (language) and use <a href="https://code.visualstudio.com/" target="_blank">Visual Studio Code</a> (code editor) with <a href="https://marketplace.visualstudio.com/items?itemName=ms-python.python" target="_blank">Python</a> and <a href="https://marketplace.visualstudio.com/items?itemName=ms-python.vscode-pylance" target="_blank">Pylance</a> (extensions) installed. Now you have to different ways to test Python files:
+    Clone the repository, install <a href="https://www.python.org/" target="_blank">Python</a> (language) and use <a href="https://code.visualstudio.com/" target="_blank">Visual Studio Code</a> (code editor) with <a href="https://marketplace.visualstudio.com/items?itemName=ms-python.python" target="_blank">Python</a> and <a href="https://marketplace.visualstudio.com/items?itemName=ms-python.vscode-pylance" target="_blank">Pylance</a> (extensions) installed. Now you have to different ways to test a Python file:
     <ul>
         <li>
             <strong>Run Python file from console:</strong> write <code>python &lt;FILE NAME&gt;</code> to test it, and you are going to see a result in your console.
