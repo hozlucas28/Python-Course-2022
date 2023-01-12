@@ -61,6 +61,9 @@
         <li>
             <a href="https://github.com/hozlucas28/Django-Course-2022" target="_blank">Repository of Django course</a>
         </li>
+        <li>
+            <a href="https://github.com/hozlucas28/API-Rest-Express-Course-2022" target="_blank">Repository of API REST - Express course</a>
+        </li>
     </ul>
 </p>
 
